@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm VVain716 👋
 
 - 👀 I'm interested in Computer science because I like using computers and manipulating them. 
 - 🌱 I’m currently learning Intermediate programming
