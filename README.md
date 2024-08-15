@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 👀 I'm interested in Computer science because I like using computers and manipulating them. 
+- 🌱 I’m currently learning Intermediate programming
+- 👯 I’m looking to collaborate on many projects, and other academic activities
+- 📫 How to reach me: Email me using my school email
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I used to play chess competitively. 
+  
 <!--
 **VVain716/VVain716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
