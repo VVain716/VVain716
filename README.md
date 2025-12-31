@@ -1,7 +1,7 @@
 ## Hi there, I'm VVain716 👋
 
 - 👀 I'm interested in Computer science because I like using computers and manipulating them. 
-- 🌱 I’m currently learning Intermediate programming
+- 🌱 I’m currently learning AP Computer Science A
 - 👯 I’m looking to collaborate on many projects, and other academic activities
 - 📫 How to reach me: Email me using my school email
 - 😄 Pronouns: he/him/his
