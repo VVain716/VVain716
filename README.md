@@ -1,9 +1,9 @@
 ## Hi there, I'm VVain716 👋
 
-- 👀 I'm interested in Computer science because I like using computers and manipulating them. 
+- 👀 I love problem solving and critical thinking.
 - 🌱 I’m currently learning AP Computer Science A
 - 👯 I’m looking to collaborate on many projects, and other academic activities
-- 📫 How to reach me: Email me using my school email
+- 📫 How to reach me: Use my email, vedvainateya@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I used to play chess competitively!
   
